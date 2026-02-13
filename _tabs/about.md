@@ -3,6 +3,13 @@
 icon: fas fa-info-circle
 order: 4
 ---
+layout: page
+title: About
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Hello! I am Ken Muiruri.
+I am a software engineer and security analyst enthusiast who is focused on building resilient systems and ethical hacking.
+## Technical focus
+**Offensive security:** HTB Writeups, Vulnerability Research
+**Software Engineering:** Django, Python, HTML, CSS
+
+## Projects
