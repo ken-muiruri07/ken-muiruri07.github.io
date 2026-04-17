@@ -3,8 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-layout: page
-title: About
+
 
 ## Hello! I am Ken Muiruri.
 I’m a developer with a growing focus on cybersecurity, driven by curiosity about how systems really work beneath the surface. I’m especially interested in the space where logic, behavior, and vulnerability intersect, where small oversights can lead to big consequences.
