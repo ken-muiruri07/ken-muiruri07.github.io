@@ -25,6 +25,7 @@ The most common type is image steganography. Images are made of pixels, and each
 ### Steganography is a double-edged sword:
 
 🔴 Attackers use it to hide malware, commands, or stolen data
+
 🟢 Security analysts study it to detect hidden threats in files
 
 ### It’s often used in:
